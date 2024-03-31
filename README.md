@@ -2,7 +2,7 @@
 This repository contains the implementation of various semantic segmentation models used for understanding urban street scenes in the context of autonomous driving. Semantic segmentation is crucial for the perception systems of self-driving cars, allowing them to classify each pixel of an image into a particular class. Autonomous driving is one of the most actively researched areas in the automotive industry. This project leverages semantic segmentation as a core element for the perception systems, which include components like lidars, cameras, and sensors.
 
 ## Dataset
-The dataset used for training the models is the Cityscapes Image Pairs, which contains labeled still images from the original videos with semantic segmentation labels. It includes 2975 training images and 500 validation images, each with a dimension of 256x512 pixels.
+The dataset used for training the models is the Cityscapes Image Pairs, which contains labelled still images from the original videos with semantic segmentation labels. It includes 2975 training images and 500 validation images, each with a dimension of 256x512 pixels.
 
 ## Implementation Details
 The semantic segmentation models implemented include:
